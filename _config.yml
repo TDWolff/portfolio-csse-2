@@ -19,7 +19,7 @@ description: "Class of 2026"
 owner_name: Torin Wolff
 github_username: TDWolff
 github_repo: "portfolio-csse-2" 
-baseurl: "/portfolio-csse-2" 
+baseurl: "" 
 future: true
 
 # Build settings
